@@ -1,12 +1,4 @@
-# Node modules
-node_modules/
-
-# Build output
-.next/
-out/
-dist/
-
-# Log files
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -14,32 +6,44 @@ yarn-debug.log*
 yarn-error.log*
 
 # Dependency directories
-jspm_packages/
+node_modules/
 
-# Testing
-coverage/
-*.lcov
+# Next.js build output
+.next/
+out/
 
-# Environment variables
-.env
+# Production files
+/build
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-# IDE and Editor settings
-.idea/
-.vscode/
-*.sublime-workspace
-*.sublime-project
-
-# MacOS
+# Miscellaneous
 .DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
 
-# Linux
-*~
+# TypeScript
+*.tsbuildinfo
 
-# Windows
-Thumbs.db
-ehthumbs.db
-Icon?
+# Optional npm cache directory
+.npm/
+
+# Test Coverage
+coverage/
+
+# Next.js files
+.next/
+
+# Ignoring Next.js static exports
+out/
+
+# Local environment variables
+.env
+.env.*
+
+# Build output
+build/
