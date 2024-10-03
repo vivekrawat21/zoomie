@@ -1,8 +1,17 @@
 import Navbar from '@/components/Navbar'
 import Sidebar from '@/components/Sidebar'
+import { Metadata } from 'next';
 import React, { ReactNode } from 'react'
 
-const Homelayout = ({children}:{children:ReactNode }) => {
+export const metadata: Metadata = {
+  title: "Zoomie",
+  description: "Video calling made easy",
+  icons:{
+    icon: "/icons/logo.svg",
+  }
+};
+const Homelayout = ({children}:
+  {children:ReactNode }) => {
   return (
     <main className='relative'>
        <Navbar/>

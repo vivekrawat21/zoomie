@@ -61,6 +61,16 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "(rsc)/./node_modules/@stream-io/video-react-sdk/dist/css/styles.css":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@stream-io/video-react-sdk/dist/css/styles.css ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"6726bac0cc5d\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvQHN0cmVhbS1pby92aWRlby1yZWFjdC1zZGsvZGlzdC9jc3Mvc3R5bGVzLmNzcyIsIm1hcHBpbmdzIjoiOzs7O0FBQUEsaUVBQWUsY0FBYztBQUM3QixJQUFJLEtBQVUsRUFBRSxFQUF1QiIsInNvdXJjZXMiOlsid2VicGFjazovL3pvb21pZS8uL25vZGVfbW9kdWxlcy9Ac3RyZWFtLWlvL3ZpZGVvLXJlYWN0LXNkay9kaXN0L2Nzcy9zdHlsZXMuY3NzPzA0MTEiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgXCI2NzI2YmFjMGNjNWRcIlxuaWYgKG1vZHVsZS5ob3QpIHsgbW9kdWxlLmhvdC5hY2NlcHQoKSB9XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/@stream-io/video-react-sdk/dist/css/styles.css\n");
+
+/***/ }),
+
 /***/ "(action-browser)/./node_modules/@stream-io/node-sdk/dist/index.es.js":
 /*!***********************************************************!*\
   !*** ./node_modules/@stream-io/node-sdk/dist/index.es.js ***!
